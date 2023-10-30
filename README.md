@@ -44,5 +44,5 @@
 
 ## Контакты:
 - **LinkedIN:**
-- **Telegram:** @Nayvox
+- **Telegram:** [@Nayvox](https://t.me/Nayvox)
 - **E-mail:** naomasa2111@gamil.com
