@@ -18,7 +18,7 @@
 
 
 ### AB-test delivery app
-**Ноутбук с кодом:** [AB-test_delivery_app]<br> (https://github.com/Jactaesx/AB_test_delivery_app/blob/main/AB_delivery_case.ipynb)<br> 
+**Ноутбук с кодом:** [AB-test_delivery_app](https://github.com/Jactaesx/AB_test_delivery_app/blob/main/AB_delivery_case.ipynb)<br> 
 **Описание:** Командой проекта внедрила в приложение умную систему рекомендации товаров – предполагается, что такая система поможет пользователям эффективнее работать с приложением и лучше находить необходимые товары. Чтобы проверить эффективность системы рекомендаций, был проведен АБ-тест. Необходимо оценить, смогла ли новая система рекомендаций принести пользу бизнесу и пользователям приложения.<br> 
 **Навыки:** Обработка данных, EDA, визуализация данных, проверка гипотез, тест Шапиро-Уилка, t-test, bootstrap<br> 
 **Стек инструментов:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.Stats, Pingouin<br> 
