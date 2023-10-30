@@ -8,3 +8,7 @@
 В свободное время я активно изучаю материалы по анализу данных, читаю статьи на Habr, следую за блогами и чатами в Telegram (KarpovCoursesChat, LeftJoin, Chartomojka и др.), а также смотрю каналы на YouTube (Noukash, Vk Team, Reveal the Data, Матемаркетинг и др.).
 
 
+## Мои проекты
+
+### E-commerce
+**Ноутбук с кодом:**[E-commerce](https://github.com/Jactaesx/E-commerce_proj/blob/main/E-commerce_analysis.ipynb) 
