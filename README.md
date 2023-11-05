@@ -49,6 +49,6 @@
 
 
 ## Контакты:
-- **LinkedIN:**
+- **LinkedIN:** [kirill_koliadko](https://www.linkedin.com/in/kirill-koliadko-b26863261/)
 - **Telegram:** [@Nayvox](https://t.me/Nayvox)
 - **E-mail:** naomasa2111@gamil.com
